@@ -7,7 +7,7 @@ nuget Argu 3.7
 nuget FSharp.Core 4.3.3
 nuget Expecto 6.0.0
 nuget SourceLink.Create.CommandLine 2.8.0 copy_local: true
-
+nuget FSharpPlus 1.0.0-CI00148
 
 group Build
     source https://www.nuget.org/api/v2
